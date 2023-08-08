@@ -1,0 +1,12 @@
+requests
+numpy
+pandas
+matplotlib
+datetime
+scipy
+sklearn
+seaborn
+html5lib
+lxml
+bs4
+BeautifulSoup4
